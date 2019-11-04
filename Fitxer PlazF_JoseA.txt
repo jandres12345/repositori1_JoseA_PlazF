@@ -1,3 +1,3 @@
 ﻿Hello everyone
 'Afegeixo línea desde el repositori local'
-José Andrés Plaz Flores
+José Andrés P.F
